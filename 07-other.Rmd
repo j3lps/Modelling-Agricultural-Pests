@@ -1,0 +1,5 @@
+# Other things
+
+This chapter contains a myriad of topics that provide extensions to the information laid out in the previous chapters.
+
+It is definitely not meant to be read in order.

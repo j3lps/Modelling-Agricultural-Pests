@@ -1,0 +1,43 @@
+# Introduction {#intro}
+
+Agricultural pests are a big problem.
+* Generic, motivating examples
+
+Modelling is useful.
+* Prediction or hypothesis testing
+* Not possible with limitations of field experiments
+
+# What you will learn {#whatlearn}
+
+Here's what you will learn:
+* Modelling
+
+How to read book (in order or something else?)
+
+# Setup (#setup)
+
+Installing R
+Essential R packages
+RMarkdown
+Content of code
+
+# Book overview (#overview)
+
+Brief overview of each chapter:
+1) Introduction
+2) Fungal diseases
+3) Insect pests
+4) Weeds
+5) Bringing it all together
+6) Theoretical concepts
+7) Additional info
+8) References
+
+# Topics I aim to cover:
+* Maps
+* Statistics
+* Process-based modelling
+  + Rc
+* Bayesian statistics
+* Genetics
+* Model fitting
